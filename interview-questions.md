@@ -14,7 +14,7 @@ Researched answer: Functional programming has benefits in it's own right. You co
 
 1. What is the difference between a Float and an Integer in Ruby?
 
-Your answer: In Ruby, Floats have decimal points, while Integers are whole numbers. When mathmetical operations are applied to these data types, there is also a difference. For Integers, simple addition, subtraction, and multiplication is standard. For example, 5 + 5 = 25 or 10 * 5 = 50. For division for Integers in Ruby, you will get a zero division error for dividing any Integer by 0. Whereas, for Floats, you will receive infinity for dividing two float numbers by zero. For example, 5.0 / 0.0 = infinity in Ruby. 
+Your answer: In Ruby, Floats have decimal points, while Integers are whole numbers. When mathmetical operations are applied to these data types, there is also a difference. For Integers, simple addition, subtraction, and multiplication is standard. For example, 5 + 5 = 25 or 10 * 5 = 50. For division for Integers in Ruby, you will get a zero division error for dividing any Integer by 0. Whereas, for Floats, you will receive infinity for dividing two float numbers by zero. For example, 5.0 / 0.0 = infinity in Ruby.
 
 Researched answer: Float numbers are the only that can return a NaN or Infinity. You can do mathmetical operations on an integer and a float and the return will be a float number. Floats have decimals and are a fractional part of a number. Integers are whole numbers that can be positive, negative, and zero. 
 
